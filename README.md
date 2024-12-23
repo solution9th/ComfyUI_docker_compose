@@ -1,4 +1,4 @@
-需要在主机上安装 docker-compose
+主机上需要安装 docker-compose
 
 git clone ${http_url}
 
