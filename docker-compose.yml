@@ -1,0 +1,24 @@
+version: "2"
+
+services:
+  comfyui:
+    build: .
+    volumes:
+      - ./data/models:/Comfyui/models
+      - ./data/custom_nodes:/Comfyui/custom_nodes
+      - ./data/output:/Comfyui/output
+      - ./data/input:/Comfyui/input
+      - ./data/venv:/Comfyui/venv
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    ports:
+      - ${port}:443
+    stop_signal: SIGKILL
+      #    detach: true
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
