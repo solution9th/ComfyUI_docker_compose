@@ -5,7 +5,7 @@ if [ ! -f "/Comfyui/main.py" ]; then
 	git clone --branch v0.3.0 https://github.com/comfyanonymous/ComfyUI.git /opt/ComfyUI
 	cp -a /opt/ComfyUI/*  /Comfyui/ && rm -rf /opt/ComfyUI && cd /Comfyui && pip3 install -r  requirements.txt && pip3 install wget
 
-#	mkdir /Comfyui/models/LLM
+
 else
 	echo "Comfyui 已安装"
 	export PYTHONPATH=/Comfyui/venv/lib/python3.10/site-packages:$PYTHONPATH 
