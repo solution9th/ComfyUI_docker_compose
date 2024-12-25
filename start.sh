@@ -45,4 +45,4 @@ while IFS=' ' read -r model_url model_name; do
   done < /Comfyui/models.txt
 
 #启动服务
-cd /Comfyui &&  python3 main.py --listen --port 80
+cd /Comfyui &&  python3 main.py --listen --port 443

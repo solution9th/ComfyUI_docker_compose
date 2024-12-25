@@ -10,5 +10,11 @@ https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/resolve/main/diffusion_p
 https://huggingface.co/mojen/brushnet/resolve/main/segmentation_mask_brushnet_ckpt_sdxl_v1.safetensors models/inpaint/brushnet_xl/segmentation_mask_brushnet_ckpt_sdxl_v1.safetensors
 https://huggingface.co/depth-anything/Depth-Anything-V2-Large/resolve/main/depth_anything_v2_vitl.pth custom_nodes/comfyui_controlnet_aux/ckpts/depth-anything/Depth-Anything-V2-Large/depth_anything_v2_vitl.pth
 https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors models/controlnet/controlnet-openpose-sdxl-1.0/diffusion_pytorch_model.safetensors
-https://huggingface.co/Linaqruf/lcm-lora-sdxl-rank1/resolve/main/pytorch_lora_weights.safetensors models/loras/lcm-lora-sdxl-rank1.safetensors
+https://huggingface.co/Linaqruf/lcm-lora-sdxl-rank1/resolve/main/pytorch_lora_weights.safetensors models/loras/sdxl_LCM_lora_rank1.safetensors
 https://huggingface.co/mbrhan/sdxl-vae-fp16-fix/resolve/main/diffusion_pytorch_model.safetensors models/vae/sdxl_vae_fp16_fix.safetensors
+https://huggingface.co/black-forest-labs/FLUX.1-schnell/resolve/main/ae.safetensors models/vae/ae.safetensors
+https://github.com/ChaoningZhang/MobileSAM/raw/refs/heads/master/weights/mobile_sam.pt models/sams/mobile_sam.pt
+https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors models/clip/t5xxl_fp16.safetensors
+https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors models/clip/clip_l.safetensors
+https://modelscope.cn/models/AI-ModelScope/FLUX.1-Fill-dev/resolve/master/flux1-fill-dev.safetensors models/unet/flux1-fill-dev.safetensors
+https://huggingface.co/mlgawd/controlnet-union-sdxl/resolve/main/diffusion_pytorch_model.safetensors models/controlNet_sdxl_union/controlnet_union_sdxl.safetensors

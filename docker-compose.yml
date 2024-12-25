@@ -12,7 +12,7 @@ services:
     environment:
       - NVIDIA_VISIBLE_DEVICES=all
     ports:
-      - ${port}:443
+      - 443:443
     stop_signal: SIGKILL
       #    detach: true
     deploy:
