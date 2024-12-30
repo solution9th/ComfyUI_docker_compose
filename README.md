@@ -1,4 +1,4 @@
-主机上需要安装 docker-compose
+主机上需要安装 docker-compose、nvidia-docker2或nvidia-container-runtime、docker
 
 git clone ${http_url}
 
