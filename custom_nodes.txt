@@ -16,9 +16,9 @@ https://github.com/solution9th/comfyui-mixlab-nodes.git comfyui-mixlab-nodes
 https://github.com/solution9th/ComfyUI-Openpose-Editor-Plus.git ComfyUI-Openpose-Editor-Plus
 https://github.com/solution9th/ComfyUI-AdvancedLivePortrait.git ComfyUI-AdvancedLivePortrait
 https://github.com/solution9th/Comfyui_cgem156.git cgem156
-https://github.com/kadirnar/ComfyUI-YOLO.git ComfyUI-YOLO
-https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git ComfyUI-Custom-Scripts
-https://github.com/KoreTeknology/ComfyUI-Universal-Styler.git ComfyUI-Universal-Styler
-https://github.com/yolain/ComfyUI-Easy-Use.git ComfyUI-Easy-Use
+https://github.com/solution9th/ComfyUI-YOLO.git ComfyUI-YOLO
+https://github.com/solution9th/ComfyUI-Custom-Scripts.git ComfyUI-Custom-Scripts
+https://github.com/solution9th/ComfyUI-Universal-Styler.git ComfyUI-Universal-Styler
+https://github.com/solution9th/ComfyUI-Easy-Use.git ComfyUI-Easy-Use
 https://github.com/solution9th/comfyui-lama-remover.git comfyui-lama-remover
-https://github.com/ltdrdata/ComfyUI-Impact-Subpack.git ComfyUI-Impact-Pack/impact_subpack
+https://github.com/solution9th/ComfyUI-Impact-Subpack.git ComfyUI-Impact-Pack/impact_subpack
