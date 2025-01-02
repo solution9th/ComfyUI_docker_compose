@@ -5,8 +5,8 @@ RUN apt install build-essential git  libgl1 libgl1-mesa-glx ffmpeg libglib2.0-0 
 
 # py 环境
 RUN apt install python3-venv -y
-ENV https_proxy http://calm.util.zlibs.com:8128
-ENV no_proxy mirrors.tencentyun.com
+ENV https_proxy http://xxxx
+ENV no_proxy mirrors.xxxx.com
 ENV PATH=/Comfyui/venv/bin:$PATH
 ENV PYTHONPATH=/Comfyui/venv/lib/python3.10:$PYTHONPATH
 ENV LD_LIBRARY_PATH=/Comfyui/venv/lib/python3.10:$LD_LIBRARY_PATH
