@@ -11,6 +11,6 @@ $cd  ComfyUI_docker_compose
 ![image](https://github.com/user-attachments/assets/73c0788f-d99f-4c1c-a61a-99efc9bba3a0)
 
 
-运行
+最后，运行如下命令，等待模型及节点自动下载
 
 $docker compose up -d
