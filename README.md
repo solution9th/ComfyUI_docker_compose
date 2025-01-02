@@ -6,7 +6,7 @@ git clone ${http_url}
 
 $cd  ComfyUI_docker_compose
 
-修改Dockerfile，在配置中添加自有代理地址
+修改Dockerfile，在配置中添加翻墙代理地址
 
 ![image](https://github.com/user-attachments/assets/73c0788f-d99f-4c1c-a61a-99efc9bba3a0)
 
