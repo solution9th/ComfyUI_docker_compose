@@ -17,4 +17,4 @@ https://github.com/ChaoningZhang/MobileSAM/raw/refs/heads/master/weights/mobile_
 https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors models/clip/t5xxl_fp16.safetensors
 https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors models/clip/clip_l.safetensors
 https://modelscope.cn/models/AI-ModelScope/FLUX.1-Fill-dev/resolve/master/flux1-fill-dev.safetensors models/unet/flux1-fill-dev.safetensors
-https://huggingface.co/mlgawd/controlnet-union-sdxl/resolve/main/diffusion_pytorch_model.safetensors models/controlNet_sdxl_union/controlnet_union_sdxl.safetensors
+https://huggingface.co/mlgawd/controlnet-union-sdxl/resolve/main/diffusion_pytorch_model.safetensors models/controlnet/controlnet_union_sdxl.safetensors
