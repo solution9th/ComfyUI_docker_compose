@@ -26,7 +26,7 @@ while IFS=' ' read -r custom_node_url costom_node_name; do
     else
       echo "${costom_node_name} 节点已存在"
     fi
-  done < /Comfyui/custom_nodes.txt
+  done < /Comfyui/conf/custom_nodes.txt
 
 # 检查并下载模型
 echo "检查模型下载情况"
@@ -42,7 +42,7 @@ while IFS=' ' read -r model_url model_name; do
     else
       echo "$model_name 模型已存在"
     fi
-  done < /Comfyui/models.txt
+  done < /Comfyui/conf/models.txt
 
 #启动服务
 cd /Comfyui &&  python3 main.py --listen --port 443

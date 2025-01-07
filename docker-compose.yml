@@ -9,6 +9,7 @@ services:
       - ./data/output:/Comfyui/output
       - ./data/input:/Comfyui/input
       - ./data/venv:/Comfyui/venv
+      - ./conf:/Comfyui/conf
     environment:
       - NVIDIA_VISIBLE_DEVICES=all
     ports:
