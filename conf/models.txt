@@ -1,10 +1,10 @@
-https://hf-mirror.com/proyectorating/tsdxl/resolve/34e0762050ce52c18a9f506f4478438d127f7556/turbovisionxlSuperFastXLBasedOnNew_tvxlV32Bakedvae.safetensors models/checkpoints/turbovisionxlSuperFastXLBasedOnNew_tvxlV32Bakedvae.safetensors
-https://hf-mirror.com/Qasadev/controlnet-union-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors models/controlnet/controlnet-union-sdxl-1.0.safetensors
-https://hf-mirror.com/akshitapps/TurboVisionXL/resolve/main/turbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae.safetensors models/checkpoints/turbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae.safetensors
-https://hf-mirror.com/TencentARC/t2i-adapter-sketch-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors models/controlnet/t2i-adapter-sketch-sdxl-1.0.fp16.safetensors
-https://hf-mirror.com/moonshotmillion/DreamshaperXL-Turbo-2.1/resolve/main/dreamshaperXL_v21TurboDPMSDE.safetensors models/checkpoints/dreamshaperXL_v21TurboDPMSDE.safetensors
-https://hf-mirror.com/lllyasviel/fooocus_inpaint/resolve/main/inpaint_v26.fooocus.patch models/inpaint/fooocus/inpaint_v26.fooocus.pth
-https://hf-mirror.com/lllyasviel/fooocus_inpaint/resolve/main/fooocus_inpaint_head.pth models/inpaint/fooocus/fooocus_inpaint_head.pth
+https://huggingface.co/proyectorating/tsdxl/resolve/34e0762050ce52c18a9f506f4478438d127f7556/turbovisionxlSuperFastXLBasedOnNew_tvxlV32Bakedvae.safetensors models/checkpoints/turbovisionxlSuperFastXLBasedOnNew_tvxlV32Bakedvae.safetensors
+https://huggingface.co/Qasadev/controlnet-union-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors models/controlnet/controlnet-union-sdxl-1.0.safetensors
+https://huggingface.co/akshitapps/TurboVisionXL/resolve/main/turbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae.safetensors models/checkpoints/turbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae.safetensors
+https://huggingface.co/TencentARC/t2i-adapter-sketch-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors models/controlnet/t2i-adapter-sketch-sdxl-1.0.fp16.safetensors
+https://huggingface.co/moonshotmillion/DreamshaperXL-Turbo-2.1/resolve/main/dreamshaperXL_v21TurboDPMSDE.safetensors models/checkpoints/dreamshaperXL_v21TurboDPMSDE.safetensors
+https://huggingface.co/lllyasviel/fooocus_inpaint/resolve/main/inpaint_v26.fooocus.patch models/inpaint/fooocus/inpaint_v26.fooocus.pth
+https://huggingface.co/lllyasviel/fooocus_inpaint/resolve/main/fooocus_inpaint_head.pth models/inpaint/fooocus/fooocus_inpaint_head.pth
 https://github.com/Sanster/models/releases/download/add_big_lama/big-lama.pt models/lama/big-lama.pt
 https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/resolve/main/diffusion_pytorch_model_promax.safetensors models/controlnet/controlnet-union-sdxl-1.0/diffusion_pytorch_model_promax.safetensors
 https://huggingface.co/mojen/brushnet/resolve/main/segmentation_mask_brushnet_ckpt_sdxl_v1.safetensors models/inpaint/brushnet_xl/segmentation_mask_brushnet_ckpt_sdxl_v1.safetensors
