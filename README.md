@@ -8,7 +8,7 @@ git clone ${http_url}
 
 $cd  ComfyUI_docker_compose
 
-因下载模型和节点需要，国内用户需要科学上网，修改Dockerfile
+因下载模型需要，国内用户需要科学上网，修改Dockerfile
 
 ![image](https://github.com/user-attachments/assets/73c0788f-d99f-4c1c-a61a-99efc9bba3a0)
 
