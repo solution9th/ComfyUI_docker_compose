@@ -1,4 +1,5 @@
 一、Install
+
 主机上需要安装 docker-compose、nvidia-docker2或nvidia-container-runtime、docker
 
 git clone ${http_url}
@@ -15,3 +16,13 @@ $cd  ComfyUI_docker_compose
 最后，运行如下命令，等待模型节点自动下载和服务启动（磁盘预留100G）
 
 $docker compose up -d
+
+二、update
+
+在原代码目录中运行
+
+$git pull
+
+然后重启容器即可
+
+$docker compose restart
