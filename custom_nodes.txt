@@ -21,4 +21,6 @@ https://github.com/solution9th/ComfyUI-Custom-Scripts.git ComfyUI-Custom-Scripts
 https://github.com/solution9th/ComfyUI-Universal-Styler.git ComfyUI-Universal-Styler
 https://github.com/solution9th/ComfyUI-Easy-Use.git ComfyUI-Easy-Use
 https://github.com/solution9th/comfyui-lama-remover.git comfyui-lama-remover
+https://github.com/solution9th/comfyui-gpt-agent.git comfyui-gpt-agent
+https://github.com/solution9th/comfyui-mediapipe.git comfyui-mediapipe
 https://github.com/solution9th/ComfyUI-Impact-Subpack.git ComfyUI-Impact-Pack/impact_subpack
