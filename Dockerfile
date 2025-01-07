@@ -11,7 +11,7 @@ RUN apt install python3-venv -y
 ENV PATH=/Comfyui/venv/bin:$PATH
 ENV PYTHONPATH=/Comfyui/venv/lib/python3.10:$PYTHONPATH
 ENV LD_LIBRARY_PATH=/Comfyui/venv/lib/python3.10:$LD_LIBRARY_PATH
-COPY start.sh /Comfyui/
+COPY start.sh start.sh_old /Comfyui/
 
 #启动服务
 CMD ["bash", "/Comfyui/start.sh"]

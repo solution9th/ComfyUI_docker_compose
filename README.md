@@ -26,3 +26,6 @@ $git pull
 然后重启容器即可
 
 $docker compose restart
+
+
+注意：一些类型的GPU不支持cuda-malloc，会有如下启动提示，此时在容器中使用start.sh_old覆盖start.sh，并重启容器即可,此类型GPU出图会比较慢。
