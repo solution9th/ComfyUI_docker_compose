@@ -6,8 +6,8 @@ RUN apt install build-essential git  libgl1 libgl1-mesa-glx ffmpeg libglib2.0-0 
 # py 环境
 RUN apt install python3-venv -y
 #设置容器启动后代理地址
-#ENV https_proxy http://xxxx
-#ENV no_proxy mirrors.xxxx.com
+ENV https_proxy http://xxxx
+ENV no_proxy mirrors.xxxx.com
 #设置kimi环境变量
 export api_key=sk-xxxxxx
 export api_version=
