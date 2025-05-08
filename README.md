@@ -1,6 +1,6 @@
 一、Install
 
-主机上需要安装 docker-compose、nvidia-docker2或nvidia-container-runtime、docker
+主机上需要安装 docker-compose、nvidia-docker2或nvidia-container-runtime、docker以及nvidia-container-toolkit
 
 git clone ${http_url}
 
