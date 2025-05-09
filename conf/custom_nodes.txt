@@ -5,17 +5,15 @@ https://github.com/solution9th/ComfyUI-Advanced-ControlNet.git ComfyUI-Advanced-
 https://github.com/solution9th/ComfyUI-BiRefNet-Hugo.git ComfyUI-BiRefNet-Hugo
 https://github.com/solution9th/Comfyui_mobilesam.git Comfyui_mobilesam
 https://github.com/solution9th/was-node-suite-comfyui.git was-node-suite-comfyui
-https://github.com/solution9th/ComfyUI-Impact-Pack.git ComfyUI-Impact-Pack
 https://github.com/solution9th/efficiency-nodes-comfyui.git efficiency-nodes-comfyui
 https://github.com/solution9th/comfyui-inpaint-nodes.git comfyui-inpaint-nodes
 https://github.com/solution9th/ComfyUI-WD14-Tagger.git ComfyUI-WD14-Tagger
 https://github.com/solution9th/comfyui-tooling-nodes.git comfyui-tooling-nodes
-https://github.com/solution9th/ComfyUI_HFDownLoad.git ComfyUI_HFDownLoad
 https://github.com/solution9th/masquerade-nodes-comfyui.git masquerade-nodes-comfyui
 https://github.com/solution9th/comfyui-mixlab-nodes.git comfyui-mixlab-nodes
 https://github.com/solution9th/ComfyUI-Openpose-Editor-Plus.git ComfyUI-Openpose-Editor-Plus
 https://github.com/solution9th/ComfyUI-AdvancedLivePortrait.git ComfyUI-AdvancedLivePortrait
-https://github.com/solution9th/Comfyui_cgem156.git cgem156
+https://github.com/solution9th/Comfyui_cgem156.git Comfyui_cgem156
 https://github.com/solution9th/ComfyUI-YOLO.git ComfyUI-YOLO
 https://github.com/solution9th/ComfyUI-Custom-Scripts.git ComfyUI-Custom-Scripts
 https://github.com/solution9th/ComfyUI-Universal-Styler.git ComfyUI-Universal-Styler
@@ -24,4 +22,4 @@ https://github.com/solution9th/comfyui-lama-remover.git comfyui-lama-remover
 https://github.com/solution9th/comfyui-gpt-agent.git comfyui-gpt-agent
 https://github.com/solution9th/comfyui-mediapipe.git comfyui-mediapipe
 https://github.com/solution9th/ComfyUI_Custom_Nodes_AlekPet.git ComfyUI_Custom_Nodes_AlekPet
-https://github.com/solution9th/ComfyUI-Impact-Subpack.git ComfyUI-Impact-Pack/impact_subpack
+https://github.com/solution9th/ComfyUI_LayerStyle.git ComfyUI_LayerStyle
